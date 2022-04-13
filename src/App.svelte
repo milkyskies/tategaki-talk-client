@@ -66,7 +66,7 @@
 			inputPlaceholder = "お名前を入力してください";
 		}
 		// Socket stuff
-		socket = new WebSocket("ws://localhost:8082");
+		socket = new WebSocket("ws://45.148.28.168:8082");
 
 		socket.onopen = () => {
 			console.log("Socket connected");

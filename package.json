@@ -23,9 +23,11 @@
     "svelte-check": "^2.0.0",
     "svelte-preprocess": "^4.0.0",
     "tslib": "^2.0.0",
-    "typescript": "^4.0.0"
+    "typescript": "^4.6.3"
   },
   "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.17.3",
     "sirv-cli": "^2.0.0"
   }
 }
