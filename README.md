@@ -3,6 +3,7 @@
 A vertical chat app for East Asian languages made in svelte based off of [kawamataryo/svelte-simple-chat](https://github.com/kawamataryo/svelte-simple-chat) and styled to look like a Japanese book.
 
 [Client](https://github.com/pharmasque/tategaki-talk-client)
+
 [Server](https://github.com/pharmasque/tategaki-talk-server)
 
 
